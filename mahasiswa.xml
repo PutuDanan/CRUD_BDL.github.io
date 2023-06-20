@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<mahasiswa>
+  <user>
+    <id>2201</id>
+    <nama>Sari</nama>
+    <alamat>Jalan Baru</alamat>
+  </user>
+  <user>
+    <id>2202</id>
+    <nama>Munir</nama>
+    <alamat>Jalan Jalan</alamat>
+  </user>
+  <user>
+    <id>2204</id>
+    <nama>Munir</nama>
+    <alamat>Jalan Raya</alamat>
+  </user>
+  
+  <user>
+    <id>2205</id>
+    <nama>Tejo</nama>
+    <alamat>Jalan Sanur</alamat>
+  </user>
+</mahasiswa>
